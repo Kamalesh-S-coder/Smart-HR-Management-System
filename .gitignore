@@ -1,0 +1,17 @@
+# Environments
+.env
+venv/
+env/
+
+# Databases
+*.db
+*.sqlite3
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Node/React
+node_modules/
+build/
+dist/
